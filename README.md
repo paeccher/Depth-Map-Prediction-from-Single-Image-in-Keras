@@ -2,6 +2,10 @@
 
 Keras implementation of the ICCV 2015 paper *"Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture"* of **D.Eigen** and **R.Fergus**. 
 
+# Authors
+[paeccher](https://github.com/paeccher)
+[sballari](https://github.com/sballari)
+
 ### Links
 * [NYU Depth V2 Dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 * [NeurIPS 2014 Paper](https://arxiv.org/pdf/1406.2283v1.pdf)
